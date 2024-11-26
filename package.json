@@ -1,5 +1,5 @@
 {
-  "name": "edtunnel",
+  "name": "edtunnel2",
   "version": "1.0.0",
   "description": "A tunnel for the edgetunnel project to allow deployed applications to cloudflare pages and workers to be accessed via a custom domain.",
   "main": "_worker.js",
